@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1565499570 source:c:\users\berto\documents\sfsu courses\fall 2018\engr 476\fraction_\fraction.cpp
+	"fraction.h"
+	<iostream>
+	<cassert>
+	<cmath>
+
+1565499614 c:\users\berto\documents\sfsu courses\fall 2018\engr 476\fraction_\fraction.h
+	<iostream>
+
+1565499550 source:c:\users\berto\documents\sfsu courses\fall 2018\engr 476\fraction_\main.cpp
+	<iostream>
+	"fraction.h"
+	<fstream>
+	<cassert>
+	<string>
+
