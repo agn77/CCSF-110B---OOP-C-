@@ -160,29 +160,3 @@ void displayData(const highscore scores[], int size)
 
 }
 
-
-
-
-
-
-// ANYTHING BELOW THIS LINE IS CODE OUTPUT!
-//
-//How many scores will you enter?:
-//4
-// Enter the name for score #1: Joseph
-// Enter the score for score #1: 100
-// Enter the name for score #2: May
-// Enter the score for score #2: 78
-// Enter the name for score #3: Scott
-// Enter the score for score #3: 65
-// Enter the name for score #4: Robert
-// Enter the score for score #4: 94
-//
-//Top Scorers:
-//Joseph: 100
-//Robert: 94
-//May: 78
-//Scott: 65
-// Would you like to input a new set of data?(y/n)
-//n
-//
